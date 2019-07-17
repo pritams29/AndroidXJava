@@ -1,0 +1,5 @@
+<root>
+    <item name='com.karumi.dexter.listener.PermissionRequest'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
